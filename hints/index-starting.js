@@ -8,6 +8,9 @@ function createDogListItem(dog){
 
   // (1)
   //TODO: Here, add a click event listener
+  li.addEventListener("click", function(){
+    
+  })
   //on to the li element. Inside that listener,
   //call the createDogCard method and pass
   //the dog variable as a parameter. You will
